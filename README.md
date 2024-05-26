@@ -69,12 +69,12 @@ To set up the Python environment for this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/nlp-movie-review.git
+   git clone https://github.com/yourusername/MovieReview_SentimentAnalysis.git
    ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd nlp-movie-review
+    cd MovieReview_SentimentAnalysis
     ```
 3. **Create a virtual environment**:
     ```bash
